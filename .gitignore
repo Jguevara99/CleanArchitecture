@@ -1,0 +1,38 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+
+## OS generated
+.DS_Store
+Thumbs.db
+
+## Node
+node_modules/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+## Logs
+*.log
+
+## Dotnet tools
+.dotnet/
+
+## EF Migrations
+Migrations/
+
+## Publish output
+publish/
+
+## Test results
+TestResults/
